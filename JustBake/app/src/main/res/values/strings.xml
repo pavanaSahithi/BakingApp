@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JustBake</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_item_list">Items</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="steps">Steps</string>
+    <string name="click_recipe">Click for recipe</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="chooserecipe">Choose your recipe</string>
+</resources>
